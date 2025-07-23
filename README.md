@@ -7,7 +7,7 @@ It highlights, counts and alerts via email if a fraudulent transaction is detect
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fraud-detection.git
+   git clone https://github.com/Akshat-Gangwar/Fraud-detection-ML-.git
    cd fraud-detection
    ```
 
