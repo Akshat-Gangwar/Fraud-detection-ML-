@@ -54,4 +54,6 @@ This will start Kafka, Zookeeper, and any other services defined in `docker-comp
 
 
 ---
+**Note**
+- Extract lastten.rar for data file(csv)
 
