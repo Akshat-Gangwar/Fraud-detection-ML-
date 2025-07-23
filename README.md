@@ -55,7 +55,3 @@ This will start Kafka, Zookeeper, and any other services defined in `docker-comp
 
 ---
 
-**Note:**  
-- Update the description of `ran.py` if needed.
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- Add more details as your project evolves!
