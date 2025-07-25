@@ -3,6 +3,15 @@ This project was made by me for a Machine Learning internship .
 This project streams data using Apache Kafka to a real time simulation and detects fraud.
 It highlights, counts and alerts via email if a fraudulent transaction is detected.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/60f09fcf-d76e-4901-8e84-cf19c4be8fd4
+
+
+
+
 ## Setup & Installation
 
 1. **Clone the repository:**
